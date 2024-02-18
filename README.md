@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>基于扩散模型的图片生成项目</h1>
+  <h1>基于扩散模型(Difffusion model)的图片生成</h1>
 
   <p>本项目是一个基于扩散模型的图片生成项目，可以根据用户输入的文本描述或草图生成高质量图片。可以部署到本地，也可以直接运行在云平台上，如Google Colab</p>
 
