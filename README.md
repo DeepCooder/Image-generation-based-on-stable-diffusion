@@ -35,8 +35,6 @@
     
   </ul>
 
-  <h2>您可以尝试的 prompt</h2>
-
 
   <p>希望您能使用本项目生成自己喜欢的图片！</p>
 </body>
@@ -93,8 +91,6 @@
   <li>You can modify the parameters in the code to adjust the quality and style of the generated images.</li>
 
  </ul>
-
- <h2>Prompts you can try</h2>
 
  <p>Hope you can generate images you like with this project!</p>
 
