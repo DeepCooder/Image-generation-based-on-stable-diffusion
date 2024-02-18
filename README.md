@@ -41,3 +41,63 @@
   <p>希望您能使用本项目生成自己喜欢的图片！</p>
 </body>
 </html>
+
+<!-- 分割线 -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+ <meta charset="UTF-8">
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+ <h1>Image generation based on diffusion model</h1>
+ 
+ <p>This project is an image generation project based on diffusion model. It can generate high-quality images according to the text description or sketch input by users. It can be deployed locally or run directly on cloud platforms like Google Colab.</p>
+
+ <h2>Quick start on Google Colab</h2>
+
+ <ol>
+  
+  <li>Open Google Colab and open the <code>demo.ipynb</code> file in the project.</li>
+  
+  <li>The code in the first cell will download the files of this project and the open source parameters required by the model, which is equivalent to copying this repo in colab.</li>
+
+  <li>Modify the <code>prompt</code> content as needed, which is the text description or sketch of the image you want to generate.</li>
+
+  <li>You can control whether to modify the existing image by commenting out the code <code># input_image = Image.open(image_path)</code>.</li>
+
+  <li>Run the code.</li>
+
+ </ol>
+
+ <h2>Example</h2>
+
+ <p>Here is an example:</p>
+
+ <p><strong>Prompt:</strong> A beautiful stary sky.</p>
+
+ <p><img src="https://github.com/DeepCooder/Image-generation-based-on-stable-diffusion/blob/main/images/generated.jpg" alt="sky"></p>
+
+ <h2>Other notes</h2>
+
+ <ul>
+
+  <li>You can modify the parameters in the code to adjust the quality and style of the generated images.</li>
+
+ </ul>
+
+ <h2>Prompts you can try</h2>
+
+ <p>Hope you can generate images you like with this project!</p>
+
+</body>
+
+</html>
