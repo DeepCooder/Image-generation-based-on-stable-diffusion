@@ -7,9 +7,9 @@
 <body>
   <h1>基于扩散模型的图片生成项目</h1>
 
-  <p>本项目是一个基于扩散模型的图片生成项目，可以根据用户输入的文本描述或草图生成高质量图片。</p>
+  <p>本项目是一个基于扩散模型的图片生成项目，可以根据用户输入的文本描述或草图生成高质量图片。可以部署到本地，也可以直接运行在云平台上，如Google Colab</p>
 
-  <h2>使用说明</h2>
+  <h2>快速使用，直接跑在Google Colab上</h2>
 
   <ol>
     <li>打开 Google Colab 并打开项目中的 <code>demo.ipynb</code> 文件。</li>
@@ -26,7 +26,7 @@
 
   <p><strong>prompt:</strong> A beautiful stary sky.</p>
 
-  <p><img src="https://github.com/example/project/raw/main/output/generated.jpg" alt="sky"></p>
+  <p><img src="https://github.com/DeepCooder/Image-generation-based-on-stable-diffusion/blob/main/images/generated.jpg" alt="sky"></p>
 
   <h2>其他说明</h2>
 
@@ -37,12 +37,6 @@
 
   <h2>您可以尝试的 prompt</h2>
 
-  <ul>
-    <li>一座风景优美的山峰</li>
-    <li>一辆豪华跑车</li>
-    <li>一幅抽象画</li>
-    <li>您的宠物</li>
-  </ul>
 
   <p>希望您能使用本项目生成自己喜欢的图片！</p>
 </body>
