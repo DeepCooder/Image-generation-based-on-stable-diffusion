@@ -43,7 +43,7 @@
   <li>https://www.youtube.com/@umarjamilai</li>
 <br>
 
-  <p>希望您能使用本项目生成自己喜欢的图片！</p>
+  <p>希望您能使用本项目生成自己喜欢的图片🖌！</p>
 </body>
 </html>
 
