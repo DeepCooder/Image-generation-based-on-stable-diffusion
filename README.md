@@ -24,9 +24,9 @@
 
   <p>以下是一个示例：</p>
 
-  <p><strong>prompt:</strong> 一只戴着帽子的猫坐在桌子上</p>
+  <p><strong>prompt:</strong> A beautiful stary sky.</p>
 
-  <p><img src="https://github.com/example/project/raw/main/output/example.png" alt="生成的图片"></p>
+  <p><img src="https://github.com/example/project/raw/main/output/generated.jpg" alt="sky"></p>
 
   <h2>其他说明</h2>
 
